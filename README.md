@@ -1,12 +1,11 @@
-# _Hello World!_
+## _Hello World!:earth_americas:_
 Practice repository
-## _Introduction_
+### _Introduction_
 ***This is an assignment for BAIS:3050***
 1. Create a repository
 2. Practice how to create a README.md file
-## _Content_
-## _Key Highlights_
-## _Guideline_
-## _Preview_
-## _Documentation_
-## _Contact_
+### _Index_
+### _How to Run Program_
+### _Files Used_
+### _Documentation_
+### _Versioning_
