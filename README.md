@@ -3,7 +3,7 @@ Practice repository
 ## _Introduction_
 ***This is an assignment for BAIS:3050***
 1. Create a repository
-2. Practice how to create a README.md file
+2. Practice how to create and edit a README.md file
 ## _Index_
 1. [How to Run Program](https://github.com/yuqingl99/Hello_World#how-to-run-program)
 2. [Files Used](https://github.com/yuqingl99/Hello_World#files-used)
